@@ -1,1 +1,23 @@
 /* style.css */
+body {
+  font-family: Verdana, sans-serif;
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+  color: white;
+}
+.tents {
+  display: inline;
+  font-family: Verdana, sans-serif;
+  height: 527px;
+  text-align: center;
+  width: 896px;
+}
