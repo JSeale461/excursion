@@ -14,10 +14,19 @@ h1 {
     font-weight: bold;
   color: white;
 }
+.cta {
+  color: Aquamarine;
+  font-size: 16px;
+}
 .tents {
   display: inline;
   font-family: Verdana, sans-serif;
   height: 527px;
   text-align: center;
   width: 896px;
+}
+.footer {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
 }
