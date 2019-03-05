@@ -4,6 +4,9 @@ body {
   background-color: black;
   text-align: center;
 }
+p {
+  image-orientation: center;
+}
 h1 {
   display: block;
     font-size: 2em;
